@@ -1,0 +1,7 @@
+hw5spring-ball.txt
+hw5spring-radius.txt
+hw5spring-mass.txt
+hw5spring-elastic.txt
+hw5spring-elasticity.txt
+hw5spring-elasticmass.txt
+hw5spring-anchor.txt

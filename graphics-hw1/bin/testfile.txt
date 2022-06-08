@@ -1,0 +1,7 @@
+png 120 120 hw1rgba.png
+
+xyrgba 38 60 0 255 255 255
+xyrgba 92 5 255 255 0 255
+xyrgba 102 115 255 0 255 255
+
+trig 1 2 3

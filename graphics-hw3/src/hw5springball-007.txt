@@ -1,0 +1,121 @@
+png 200 200 hw5springball-007.png
+
+fps 8
+
+
+plane 0 1 0 3
+
+color 1 1 1
+sun 1 1 1
+
+color 1 0 0
+
+color 0 0.6 0
+
+color 0 0.3 1
+color 1.0 0.0 0.0
+sphere 0.0 -0.9 -4.0 0.5
+color 0.0 0.6 0.0
+sphere 2.2000000000000006 -1.9000000000000001 -4.0 0.5
+color 0.0 0.3 1.0
+sphere 2.0 -2.5 -4.0 0.5
+
+fps 8
+
+
+plane 0 1 0 3
+
+color 1 1 1
+sun 1 1 1
+
+color 1 0 0
+
+color 0 0.6 0
+
+color 0 0.3 1
+color 1.0 0.0 0.0
+sphere 0.0 -0.9 -4.0 0.5
+color 0.0 0.6 0.0
+sphere 2.2000000000000006 -1.9000000000000001 -4.0 0.5
+color 0.0 0.3 1.0
+sphere 2.0 -2.5 -4.0 0.5
+
+fps 8
+
+
+plane 0 1 0 3
+
+color 1 1 1
+sun 1 1 1
+
+color 1 0 0
+
+color 0 0.6 0
+
+color 0 0.3 1
+color 1.0 0.0 0.0
+sphere 0.0 -0.9 -4.0 0.5
+color 0.0 0.6 0.0
+sphere 2.2000000000000006 -1.9000000000000001 -4.0 0.5
+color 0.0 0.3 1.0
+sphere 2.0 -2.5 -4.0 0.5
+
+fps 8
+
+
+plane 0 1 0 3
+
+color 1 1 1
+sun 1 1 1
+
+color 1 0 0
+
+color 0 0.6 0
+
+color 0 0.3 1
+color 1.0 0.0 0.0
+sphere 0.0 -0.9 -4.0 0.5
+color 0.0 0.6 0.0
+sphere 2.2000000000000006 -1.9000000000000001 -4.0 0.5
+color 0.0 0.3 1.0
+sphere 2.0 -2.5 -4.0 0.5
+
+fps 8
+
+
+plane 0 1 0 3
+
+color 1 1 1
+sun 1 1 1
+
+color 1 0 0
+
+color 0 0.6 0
+
+color 0 0.3 1
+color 1.0 0.0 0.0
+sphere 0.0 -0.9 -4.0 0.5
+color 0.0 0.6 0.0
+sphere 2.2000000000000006 -1.9000000000000001 -4.0 0.5
+color 0.0 0.3 1.0
+sphere 2.0 -2.5 -4.0 0.5
+
+fps 8
+
+
+plane 0 1 0 3
+
+color 1 1 1
+sun 1 1 1
+
+color 1 0 0
+
+color 0 0.6 0
+
+color 0 0.3 1
+color 1.0 0.0 0.0
+sphere 0.0 -0.9 -4.0 0.5
+color 0.0 0.6 0.0
+sphere 2.2000000000000006 -1.9000000000000001 -4.0 0.5
+color 0.0 0.3 1.0
+sphere 2.0 -2.5 -4.0 0.5
